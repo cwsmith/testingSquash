@@ -1,5 +1,5 @@
 # testingSquash
 
-some content
+some more content 
 
 more
