@@ -1,1 +1,5 @@
 # testingSquash
+
+some content
+
+more
